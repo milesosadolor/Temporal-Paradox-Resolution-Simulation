@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.simulation-resource-token]
+path = 'contracts/simulation-resource-token.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.temporal-paradox-scenario]
 path = 'contracts/temporal-paradox-scenario.clar'
 clarity_version = 2

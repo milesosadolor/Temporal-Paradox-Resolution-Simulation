@@ -7,3 +7,7 @@ X
 (contracts/simulation-resource-token.clar,d/2/d284eb8afd7759187edf4cbb4a798f438261a6a5
 W
 'tests/simulation-resource-token.test.ts,e/9/e96424ea2a6babe8729dfd6cc244a5f310185d75
+S
+#contracts/temporal-paradox-nft.clar,2/6/26509987ac11719edd344ded0b4fd89e1a427da6
+R
+"tests/temporal-paradox-nft.test.ts,0/c/0cff8d123ede04bdbe12b246c83542a7bbf9bc43

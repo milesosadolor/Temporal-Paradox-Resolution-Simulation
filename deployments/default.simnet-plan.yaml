@@ -55,6 +55,11 @@ plan:
             path: contracts/simulation-resource-token.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: temporal-paradox-nft
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/temporal-paradox-nft.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: temporal-paradox-scenario
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/temporal-paradox-scenario.clar
